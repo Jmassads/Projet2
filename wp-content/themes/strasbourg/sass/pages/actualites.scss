@@ -1,0 +1,25 @@
+.actualite-post {
+  margin-bottom: 2rem !important;
+}
+
+section.actualites .headline--medium,
+section.actualites .headline--small-plus {
+  text-align: center; }
+
+@media (min-width: 556px) {
+  section.actualites .headline--medium {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    text-align: left; }
+  section.actualites .headline--small-plus {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    text-align: left; } }
+
+.actualite_date span {
+    text-transform: capitalize;
+    & i {
+        padding-right: 0.6rem;
+    }
+}
+

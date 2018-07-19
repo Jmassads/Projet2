@@ -1,0 +1,74 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 3.6.0
+  http://backwpup.com
+  Blog Name: Strasbourg
+  Blog URL: https://juliaassad.fr/projet2
+  Generated on: 2018-06-16 18:20.45
+------------------------------------------------------------
+
+
+Toutes les informations sur les extensions :
+------------------------------
+Admin Taxonomy Filter (v.1.0) de Anh Tran
+	https://wordpress.org/plugins/admin-taxonomy-filter/
+Advanced Custom Fields (v.4.4.12) de Elliot Condon
+	http://www.advancedcustomfields.com/
+Ajax Search Lite (v.4.7.15) de Ernest Marcinko
+	http://wp-dreams.com
+BackWPup (v.3.6.0) de Inpsyde GmbH
+	http://backwpup.com
+Contact Form 7 (v.5.0.2) de Takayuki Miyoshi
+	https://contactform7.com/
+Custom Post Type UI (v.1.5.8) de WebDevStudios
+	https://github.com/WebDevStudios/custom-post-type-ui/
+Disable Search (v.1.6.1) de Scott Reilly
+	http://coffee2code.com/wp-plugins/disable-search/
+Enhanced Media Library (v.2.6.4) de wpUXsolutions
+	http://wpUXsolutions.com
+GTranslate (v.2.8.41) de Translate AI Multilingual Solutions
+	https://gtranslate.io/?xyz=998
+Instagram Slider Widget (v.1.4.3) de jetonr
+	http://instagram.jrwebstudio.com/
+m1.MiniWeather (v.0.3) de maennchen1.de
+	http://maennchen1.de
+Really Simple SSL (v.3.0.1) de Rogier Lankhorst
+	https://www.really-simple-ssl.com
+Regenerate Thumbnails (v.3.0.2) de Alex Mills (Viper007Bond)
+	https://alex.blog/wordpress-plugins/regenerate-thumbnails/
+Search & Filter (v.1.2.9) de Designs & Code
+	http://www.designsandcode.com/447/wordpress-search-filter-plugin-for-taxonomies/
+Show Current Template (v.0.3.0) de JOTAKI Taisuke
+	http://wp.tekapo.com/
+Social Warfare (v.3.0.9) de Warfare Plugins
+	http://warfareplugins.com
+W3 Total Cache (v.0.9.7) de Frederick Townes
+	https://www.w3-edge.com/wordpress-plugins/w3-total-cache/
+WP Statistics (v.12.3.6.1) de Verona Labs
+	https://wp-statistics.com/
+Yoast SEO (v.7.6.1) de Team Yoast
+	https://yoa.st/1uj
+
+Extensions actives :
+------------------------------
+Admin Taxonomy Filter
+Advanced Custom Fields
+Ajax Search Lite
+BackWPup
+Contact Form 7
+Custom Post Type UI
+Disable Search
+Enhanced Media Library
+GTranslate
+Instagram Slider Widget
+m1.MiniWeather
+Really Simple SSL
+Regenerate Thumbnails
+Search & Filter
+Show Current Template
+Social Warfare
+W3 Total Cache
+WP Statistics
+Yoast SEO
+
+Extensions inactives :
+------------------------------

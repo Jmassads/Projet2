@@ -1,0 +1,111 @@
+.table-users {
+  -webkit-box-shadow: 0 8px 17px 2px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 8px 17px 2px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.2);
+  max-width: calc(100% - 2em);
+  margin: 40px auto 40px;
+  margin: 4rem auto 4rem;
+  overflow: hidden;
+  max-width: 100%;
+  margin-left: 20px;
+  margin-left: 2rem;
+  margin-right: 20px;
+  margin-right: 2rem; }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0; }
+
+table tr {
+  border-bottom: 1px solid #ccc; }
+
+table tr:last-child,
+table tr:first-child {
+  border-bottom: none; }
+
+table td,
+table th {
+  color: #000;
+  padding: 20px;
+  padding: 2rem; }
+
+table td {
+  text-align: center;
+  vertical-align: middle;
+  font-size: 16px;
+  font-size: 1.6rem; }
+
+table td:nth-child(3) {
+  width: 25%; }
+
+table td a {
+  text-decoration: none;
+  color: #000;
+  display: block; }
+
+table td:last-child {
+  text-align: center; }
+
+table th {
+  background-color: #eee;
+  font-weight: 500;
+  font-size: 20px;
+  font-size: 2rem; }
+
+table th:first-child {
+  width: 15%; }
+
+table th:nth-child(2) {
+  width: 20%; }
+
+table th:nth-child(4) {
+  width: 40%; }
+
+table tr:nth-child(2n) {
+  background-color: white; }
+
+@media screen and (max-width: 700px) {
+  .table-users {
+    -webkit-box-shadow: none;
+    box-shadow: none; }
+  table,
+  tr,
+  td {
+    display: block; }
+  td:first-child {
+    display: none; }
+  td:not(:first-child) {
+    clear: both;
+    margin-left: 15px;
+    padding: 4px 20px 4px 90px;
+    position: relative;
+    text-align: left; }
+  table td:nth-child(3) {
+    width: 100%; }
+  td:not(:first-child):before {
+    color: #9c7c71;
+    content: '';
+    display: block;
+    left: 0;
+    position: absolute; }
+  td:nth-child(2):before {
+    content: 'Activité:'; }
+  td:nth-child(3):before {
+    content: 'Date:'; }
+  td:nth-child(4):before {
+    content: 'A Propos:'; }
+  td:nth-child(5):before {
+    content: 'Inscription:'; }
+  table td:last-child {
+    text-align: left; }
+  tr {
+    padding: 10px 0;
+    position: relative; }
+  tr:first-child {
+    display: none; } }
+
+.activites_table {
+    -webkit-box-shadow: 0 8px 17px 2px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 8px 17px 2px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.2);
+    margin: 4rem auto 4rem;
+}

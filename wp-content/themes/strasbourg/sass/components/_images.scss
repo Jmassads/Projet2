@@ -1,0 +1,23 @@
+.imageholder img:hover {
+    opacity: .8;
+    transform: scale(1.05);
+}
+
+.imageholder img {
+    transition: .5s;
+}
+
+.imageholder {
+    overflow: hidden;
+}
+
+img {
+    display: block;
+}
+
+
+figcaption {
+    text-align: center;
+    font-size: 1.4rem;
+    color: #88949d;
+}

@@ -1,0 +1,85 @@
+
+.no-js .box-slider {
+    display: none;
+}
+
+.no-js .cross {
+    display: none;
+}
+
+.no-js .hamburger {
+    display: none;
+}
+
+.no-js .wp-smart-body {
+    visibility: visible !important;
+}
+
+
+.no-js .section {
+    opacity: 1;
+    -webkit-transform: translateY(0px);
+    transform: translateY(0px);
+}
+
+.no-js .fixed-nav-bar-menu {
+    display: none;
+}
+
+.no-js .hamburger:hover .no-js .fixed-nav-bar-menu {
+    display: block;
+}
+
+.no-js .fixed-nav-bar_bas {
+    display: block;
+}
+@media only screen and (max-width: 768px) {
+    .no-js .top-menu{
+        justify-content: center;
+    }
+}
+
+@media only screen and (max-width: 610px) {
+    .no-js #menu-main-menu-1 > li {
+        padding: 2px 5px;
+        font-size: 1.6rem;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .no-js #menu-main-menu-1 > li {
+        padding: 2px 5px;
+        font-size: 1.4rem;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .no-js #menu-main-menu-1 > li {
+        font-size: 1.2rem;
+    }
+}
+
+// Front page slider
+.sp-no-js {
+    visibility: hidden;
+}
+
+.no-js .slider-pro {
+    display: none;
+}
+
+.js #slider {
+    display: none;
+}
+
+.js #slider2 {
+    display: none;
+}
+
+.no-js #ajaxsearchlitewidget-3 {
+    display: none;
+}
+
+.no-js #gtranslate-2 {
+    display: none;
+}

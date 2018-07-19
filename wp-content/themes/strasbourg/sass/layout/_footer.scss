@@ -1,0 +1,46 @@
+.site-footer {
+    padding-top: 3rem;
+}
+
+#menu-footer-one li a {
+    font-size: 1.6rem;
+}
+
+.social-icons-list {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.social-icons-list li {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+    cursor: pointer;
+  
+}
+
+.social-icons-list li a {
+  text-align: center;
+  font-size: 3rem;
+
+}
+
+.social-icons-list li a:hover {
+  opacity: .75;
+}
+
+.social-color-facebook {color: #4862a3;}
+
+.social-color-twitter {color: #55acee;}
+
+.social-color-youtube {color: #cc1e1f;}
+
+.social-color-linkedin {color: #0077b5;}
+
+.social-color-instagram {color: #d8226b;}
+
+.nav-list ul {
+  padding: 0;
+  margin: 0;
+}

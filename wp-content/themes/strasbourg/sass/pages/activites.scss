@@ -1,0 +1,127 @@
+.type-activites {
+    padding: 2rem;
+    border-bottom: 1px solid #ccc;
+}
+
+.inscription:visited {
+    color: #fff;
+}
+
+.table_header {
+    background-color: #eee;
+    padding: 2rem;
+}
+
+@media screen and (max-width: 767px) {
+    .table_header {
+        display: none;
+    }
+
+    .table_inner {
+        position: relative;
+    }
+    
+    .table_inner p {
+        margin: 0;
+    }
+    
+
+    
+
+    .titre {
+        position: relative;
+        padding-left: 90px;
+        margin-bottom: 1rem;
+    }
+    .titre:before {
+        content: 'Activité:';
+        position: absolute;
+        top: 0;
+        left: 0;
+        font-size: 1.6rem;
+        line-height: 1.6;
+        font-weight: 500;
+    }
+
+    .date {
+        position: relative;
+        padding-left: 90px;
+        margin-bottom: 1rem;
+    }
+    .date:before {
+        content: 'Date:';
+        position: absolute;
+        top: 0;
+        left: 0;
+        font-size: 1.6rem;
+        line-height: 1.6;
+        font-weight: 500;
+    }
+
+    .description {
+        position: relative;
+        padding-left: 90px;
+        margin-bottom: 1rem;
+    }
+
+    .description:before {
+        content: 'A Propos:';
+        position: absolute;
+        top: 0;
+        left: 0;
+        font-size: 1.6rem;
+        line-height: 1.6;
+        font-weight: 500;
+    }
+
+    .inscrire {
+        position: relative;
+        padding-left: 90px;
+        margin-bottom: 1rem;
+    }
+    .inscrire:before {
+        content: 'Inscription:';
+        position: absolute;
+        top: 0;
+        left: 0;
+        font-size: 1.6rem;
+        line-height: 1.6;
+        font-weight: 500;
+    }
+
+
+}
+
+.table_header p {
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+
+.activite__imageholder {
+  text-align: left;
+  margin-bottom: 20px;
+  margin-bottom: 2rem; }
+
+.activite-description li {
+  padding-bottom: 5px;
+  padding-bottom: 0.5rem;
+  font-size: 15px;
+  font-size: 1.5rem;
+  line-height: 1.5; }
+
+.inscription {
+  color: #fff; }
+
+table tr:hover {
+  background-color: #eee; }
+
+table th {
+  border-bottom: 1px solid #d4d3d3; }
+
+
+@media only screen and (max-width: 767px) {
+    .activite_image {
+    display: none;
+}
+}

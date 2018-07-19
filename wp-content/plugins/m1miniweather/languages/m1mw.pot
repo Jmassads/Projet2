@@ -1,0 +1,89 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: m1.MiniWeather\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Fri Apr 22 2016 11:33:52 GMT+0200 (CEST)\n"
+"POT-Revision-Date: Fri Apr 22 2016 11:50:08 GMT+0200 (CEST)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "m1.MiniWeather"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://maennchen1.de"
+msgstr ""
+
+#. Author of the plugin
+msgid "Roger Rehnelt"
+msgstr ""
+
+#: ../index.php:33
+msgid "Failed retrieving weather data."
+msgstr ""
+
+#: ../index.php:45
+msgid "API-key, latitude and longitude must be provided!"
+msgstr ""
+
+#: ../index.php:66
+msgid "m1.MiniWeather Widget, to display weather-icon and temperature"
+msgstr ""
+
+#: ../index.php:126
+msgid "widget title:"
+msgstr ""
+
+#: ../index.php:127
+msgid "degrees in: "
+msgstr ""
+
+#: ../index.php:130
+msgid "font color (standard: emty):"
+msgstr ""
+
+#: ../index.php:131
+msgid "API-key:"
+msgstr ""
+
+#: ../index.php:132
+msgid "longitude / latitude:"
+msgstr ""
+
+#: ../index.php:134
+msgid "interval:"
+msgstr ""
+
+#: ../index.php:135
+msgid "last update: "
+msgstr ""
+
+#: ../index.php:142
+msgid "get a Free OpenWeatherMap-Account (for API-use)"
+msgstr ""
+
+#: ../index.php:143
+msgid "register an OpenWeatherMap app"
+msgstr ""
+
+#: ../index.php:144
+msgid "search your location, longitude & langitude"
+msgstr ""

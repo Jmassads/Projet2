@@ -1,0 +1,79 @@
+/* Contact Form 7 contact page
+-----------------------------------------------*/
+#wpcf7-f405-p16-o1 input[type="text"],
+#wpcf7-f405-p16-o1 input[type="email"],
+#wpcf7-f405-p16-o1 input[type="tel"],
+textarea {
+  font-size: 16px;
+  border: none;
+  color: #000;
+  width: 97%;
+  padding: 5px;
+  padding: 0.5rem;
+  background-color: transparent;
+  border-radius: 0;
+  border: 1px solid #eee;
+  color: #000;
+  height: 45px; }
+
+#wpcf7-f405-p16-o1 input[type="text"]:focus,
+#wpcf7-f405-p16-o1 input[type="email"]:focus,
+#wpcf7-f405-p16-o1 input[type="tel"]:focus,
+#wpcf7-f405-p16-o1 input[type="date"]:focus,
+#wpcf7-f405-p16-o1 input[type="submit"]:focus,
+textarea:focus {
+  outline: 1px solid #9e9c9c; }
+
+#wpcf7-f405-p16-o1 input[type="date"] {
+  padding: 5px;
+  padding: 0.5rem;
+  border: 1px solid #eee;
+  height: 45px;
+  font-size: 16px;
+  font-weight: 300;
+  background-color: transparent;
+  color: black !important;
+  width: 150px;}
+
+#wpcf7-f405-p16-o1 select {
+  padding: 5px;
+  padding: 0.5rem;
+  border: 1px solid #eee;
+  height: 45px;
+  font-size: 16px;
+  font-weight: 300;
+  background-color: #fff; }
+
+#wpcf7-f405-p16-o1 label {
+  color: #000; }
+
+#wpcf7-f405-p16-o1 input[type="submit"] {
+  color: #000;
+  font-size: 15px;
+  font-size: 1.5rem;
+  background: #eee;
+  padding: 10px 20px;
+  padding: 1rem 2rem;
+  width: auto;
+  border: none;
+  text-decoration: none;
+  border: 1px solid #eee;
+  height: 45px; }
+
+#wpcf7-f405-p16-o1 input:hover[type="submit"] {
+  background: #494949;
+  border: 1px solid #494949;
+  -webkit-transition: all 0.4s ease 0s;
+  transition: all 0.4s ease 0s;
+  color: #fff; }
+
+#wpcf7-f405-p16-o1 input:active[type="submit"] {
+  background: #000000;
+  border: 1px solid #000000;
+  color: #fff; }
+
+#wpcf7-f405-p16-o1 form {
+  margin-left: 25px;
+  margin-right: 25px;
+
+  margin-top: 25px; }
